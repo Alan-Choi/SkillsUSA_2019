@@ -13,7 +13,7 @@ Medium $12.95
 
 Small $10.95
 
-### Choose Toppings(Per Topping $1.25):
+### Choose Toppings (Per Topping $1.25):
 Anchovies
 
 Pineapple
