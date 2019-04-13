@@ -1,6 +1,6 @@
 # Computer Programming Contest
 ## Pizza Ordering Program
-You will write a program that prompts the user to order up to twp pizzas, add toppings, dough shape and more.
+You will write a program that prompts the user to order up to two pizzas, add toppings, dough shape and more.
 
 ### Customers Name:
 
