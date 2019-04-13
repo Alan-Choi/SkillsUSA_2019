@@ -1,4 +1,4 @@
-# Computer Programming Contest
+# Computer Programming Contest - 6th Place
 ## Pizza Ordering Program
 You will write a program that prompts the user to order up to two pizzas, add toppings, dough shape and more.
 
